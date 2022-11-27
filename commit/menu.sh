@@ -88,7 +88,7 @@ echo -e "□ Current Domain      = $( cat /etc/xray/domain )"
 echo -e "□ Server IP           = ${IP}"
 echo -e "□ Time Reboot VPS     = 00:00 ( Jam 12 Malam )"
 echo -e "□ License SC Limit    = Lifetime"
-echo -e "□ AutoScript By Dev   = P a p a B e a r"
+echo -e "□ AutoScript By Dev   = No One"
 
 echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e "\E[44;1;39m                     ⇱ STATUS LAYANAN ⇲                       \E[0m"
@@ -109,7 +109,7 @@ echo -e " [${GREEN}06${NC}]${RED} •${NC} Running Service $NC   [${GREEN}13${NC
 echo -e " [${GREEN}07${NC}]${RED} •${NC} Certificate SSL $NC   [${GREEN}14${NC}]${RED} • ${NC}RESTORE DATA $NC"
 echo -e " ${RED}"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
-echo -e "\E[44;1;39m                     ⇱ Script By Papa ⇲                      \E[0m"
+echo -e "\E[44;1;39m                     ⇱ burhansyam ⇲                      \E[0m"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 read -p "Select From Options [ 1 - 14 ] : " menu
 case $menu in
